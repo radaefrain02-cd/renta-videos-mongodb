@@ -60,7 +60,7 @@ Los demás procesos del diagrama se resuelven con consultas:
 ### 1. Creación de la base de datos y las colecciones
 Se ejecuta `01_crear.js`. Muestra la lista de las 3 colecciones creadas: `clientes`, `videos` y `rentas`.
 
-![Lista de colecciones creadas](img/Captura1_Lista_de%colecciones_creadas.png)
+![Lista de colecciones creadas](img/Captura1_Lista_de_colecciones_creadas.png)
 
 ### 2. Inserción de datos
 Se ejecuta `02_llenar.js`. Muestra la cantidad de clientes, videos y rentas insertados.
@@ -70,7 +70,7 @@ Se ejecuta `02_llenar.js`. Muestra la cantidad de clientes, videos y rentas inse
 ### 3. Cliente nuevo, renta nueva y devolución
 Se ejecuta `03_operaciones.js`. Muestra el alta de un cliente nuevo, el registro de una renta nueva y el registro de una devolución.
 
-![Cliente nuevo, renta nueva y devolución](img/Captur3.Cliente_nuevo_la%renta_nueva_y_la_devolución.png)
+![Cliente nuevo, renta nueva y devolución](img/Captur3Cliente_nuevo_la_renta_nueva_y_la_devolución.png)
 
 ### 4. Colecciones en MongoDB Compass
 Vista gráfica de la base de datos `renta_videos` con sus colecciones.
